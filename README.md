@@ -1,4 +1,4 @@
-# flipkart
-It is an Ecommerce application
-hai
-hello
+#include <stdio.h>
+#include<conio.h>
+void main ()
+Print ("Hello")
